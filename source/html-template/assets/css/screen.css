@@ -1,0 +1,24 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+html, body{
+	height: 100%;
+}
+
+body{
+	background-image: url('../images/background.png');
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-color: 
+}
+
+object:focus { outline:none; }
+
+#flashContent{
+	display: block;
+	position: absolute !important;
+	top: 50% !important;
+	left: 50% !important;
+}

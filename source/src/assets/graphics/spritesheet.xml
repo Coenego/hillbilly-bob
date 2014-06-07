@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:2407c98a80b1eeab4907ca0d93be5767$ -->
+<TextureAtlas imagePath="spritesheet.png">
+    <SubTexture name="btnHowTo" x="294" y="425" width="52" height="52"/>
+    <SubTexture name="btnMute" x="240" y="425" width="52" height="52"/>
+    <SubTexture name="btnOK" x="2" y="425" width="111" height="71"/>
+    <SubTexture name="btnPlayAgain" x="310" y="134" width="137" height="87"/>
+    <SubTexture name="btnStopPlaying" x="1475" y="125" width="161" height="86"/>
+    <SubTexture name="btnWithFacebook" x="1754" y="2" width="224" height="105"/>
+    <SubTexture name="btnWithoutFacebook" x="1423" y="2" width="329" height="121"/>
+    <SubTexture name="game/can" x="395" y="425" width="42" height="42" frameX="-3" frameY="-1" frameWidth="46" frameHeight="46"/>
+    <SubTexture name="game/cow" x="310" y="2" width="85" height="130" frameX="-9" frameY="-5" frameWidth="105" frameHeight="240"/>
+    <SubTexture name="game/floor" x="397" y="2" width="1024" height="123"/>
+    <SubTexture name="game/grass_front" x="449" y="127" width="1024" height="96" frameX="0" frameY="-4" frameWidth="1024" frameHeight="100"/>
+    <SubTexture name="game/topbar" x="2" y="230" width="1024" height="193"/>
+    <SubTexture name="pickup/chassis" x="1374" y="225" width="344" height="112" frameX="-18" frameY="-6" frameWidth="380" frameHeight="250"/>
+    <SubTexture name="pickup/wiel" x="179" y="425" width="59" height="59"/>
+    <SubTexture name="preloader" x="2" y="2" width="306" height="226" frameX="-127" frameY="-96" frameWidth="560" frameHeight="420"/>
+    <SubTexture name="superpickup/chassis" x="1028" y="226" width="344" height="112" frameX="-18" frameY="-6" frameWidth="380" frameHeight="250"/>
+    <SubTexture name="tractor/achterwiel" x="115" y="425" width="62" height="62"/>
+    <SubTexture name="tractor/chassis" x="1754" y="109" width="200" height="115" frameX="0" frameY="0" frameWidth="200" frameHeight="203"/>
+    <SubTexture name="tractor/voorwiel" x="348" y="425" width="45" height="45"/>
+</TextureAtlas>
